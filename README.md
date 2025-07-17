@@ -1,0 +1,2 @@
+# langchain_project
+基于langchain的智能分析系统
